@@ -1,0 +1,5 @@
+.list__add-icon {
+  background: center / contain no-repeat url('../../../images/add-icon.svg');
+  width: 23px;
+  height: 23px;
+}

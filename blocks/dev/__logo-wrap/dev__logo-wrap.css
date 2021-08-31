@@ -1,0 +1,8 @@
+.dev__logo-wrap {
+  display: flex;
+  width: 173px;
+  justify-content: space-between;
+  align-items: center;
+  border-right: 1px solid #F1F4F5;
+  padding-right: 10px;
+}
