@@ -1,0 +1,12 @@
+.intro__title {
+  margin: 0;
+  padding-bottom: 16px;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 15px;
+  letter-spacing: 0.21666669845581055px;
+  text-align: center;
+  color: #D3D4D6;
+  border-bottom: 1px solid rgba(241, 244, 245, 0.4);
+}
