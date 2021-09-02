@@ -24,3 +24,24 @@
 @import url('../blocks/intro/__content/intro__content.css');
 @import url('../blocks/intro/__title/intro__title.css');
 @import url('../blocks/intro/__subtitle/intro__subtitle.css');
+
+@import url('../blocks/featured/featured.css');
+
+@import url('../blocks/cards/cards.css');
+
+@import url('../blocks/card/card.css');
+@import url('../blocks/card/__plus/card__plus.css');
+@import url('../blocks/card/__tab/card__tab.css');
+@import url('../blocks/card/__star/card__star.css');
+@import url('../blocks/card/__tab-text/card__tab-text.css');
+@import url('../blocks/card/__header/card__header.css');
+@import url('../blocks/card/__project/card__project.css');
+@import url('../blocks/card/__description/card__description.css');
+@import url('../blocks/card/__main/card__main.css');
+@import url('../blocks/card/__footer/card__footer.css');
+@import url('../blocks/card/__list/card__list.css');
+@import url('../blocks/card/__list-item/card__list-item.css');
+@import url('../blocks/card/__list-title/card__list-title.css');
+@import url('../blocks/card/__list-value/card__list-value.css');
+@import url('../blocks/card/__list-item/_borders/card__list-item_borders.css');
+@import url('../blocks/card/__link/card__link.css');

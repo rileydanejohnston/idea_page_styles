@@ -1,0 +1,5 @@
+.card__list-item_borders {
+  width: 272px;
+  border-right: 1px solid rgba(69, 77, 88, 0.58);
+  border-left: 1px solid rgba(69, 77, 88, 0.58);
+}
