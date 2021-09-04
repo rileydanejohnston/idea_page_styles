@@ -29,8 +29,11 @@
 
 @import url('../blocks/cards/cards.css');
 
+@import url('../blocks/add-icon/add-icon.css');
+@import url('../blocks/add-icon/_type/add-icon_type_card.css');
+@import url('../blocks/add-icon/_type/add-icon_type_project.css');
+
 @import url('../blocks/card/card.css');
-@import url('../blocks/card/__plus/card__plus.css');
 @import url('../blocks/card/__tab/card__tab.css');
 @import url('../blocks/card/__star/card__star.css');
 @import url('../blocks/card/__tab-text/card__tab-text.css');
@@ -45,3 +48,26 @@
 @import url('../blocks/card/__list-value/card__list-value.css');
 @import url('../blocks/card/__list-item/_borders/card__list-item_borders.css');
 @import url('../blocks/card/__link/card__link.css');
+
+@import url('../blocks/project-gallery/project-gallery.css');
+@import url('../blocks/project/__btn/project__btn.css');
+@import url('../blocks/projects/projects.css');
+@import url('../blocks/project/project.css');
+@import url('../blocks/project/__intro/project__intro.css');
+@import url('../blocks/project/__title/project__title.css');
+@import url('../blocks/project/__subtitle/project__subtitle.css');
+
+
+@import url('../blocks/project/__details/project__details.css');
+@import url('../blocks/project/__detail/project__detail.css');
+@import url('../blocks/project/__detail-title/project__detail-title.css');
+@import url('../blocks/project/__type/project__type.css');
+@import url('../blocks/project/__positions/project__positions.css');
+@import url('../blocks/project/__position/project__position.css');
+@import url('../blocks/project/__level/project__level.css');
+@import url('../blocks/project/__time/project__time.css');
+
+@import url('../blocks/project/__detail/_type/project__detail_type_positions.css');
+@import url('../blocks/project/__detail/_type/project__detail_type_type.css');
+@import url('../blocks/project/__detail/_type/project__detail_type_time.css');
+@import url('../blocks/project/__detail/_type/project__detail_type_positions.css');

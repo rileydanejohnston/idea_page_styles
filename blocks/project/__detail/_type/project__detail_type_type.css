@@ -1,0 +1,18 @@
+.project__detail_type_type {
+  border-radius: 0 10px 10px 0;
+  background-color: #7B7B7B;
+  width: 35%;
+  position: relative;
+}
+.project__detail_type_type::before {
+  content: "";
+  position: absolute;
+  background-color: #7B7B7B;
+  height: 100%;
+  width: 20px;
+  right: 0px;
+  top: 0;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 10px 0 0 0 #c0c0c0;
+}

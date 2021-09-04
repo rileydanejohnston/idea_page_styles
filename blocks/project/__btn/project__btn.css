@@ -1,0 +1,17 @@
+.project__btn {
+  border: none;
+  width: 93px;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0.21666669845581055px;
+  text-align: center;
+  color: #30363E;
+  background-color: rgba(84, 87, 91, 0.2);
+  position: absolute;
+  bottom: 8px;
+  right: 12px;
+}
