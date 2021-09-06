@@ -1,0 +1,14 @@
+.project-bar__select {
+  border-radius: 20px;
+  background-color: #F1F4F5;
+  color: #454D58;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0.21666669845581055px;
+  height: 30px;
+  border: none;
+  padding: 0 12px;
+  margin: 0 4px;
+}

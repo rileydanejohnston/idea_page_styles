@@ -82,8 +82,38 @@
       </section>
     </main>
     <section class='project-gallery'>
-      <ul class='projects'>
+      <div class='project-bar'>
+        <div class='project-bar__heading'>
+          <div class='project-bar__icons'>
+            <div class='project-bar__list-icon'></div>
+            <p class='project-bar__title'>Latest</p>
+            <div class='arrow-icon arrow-icon_color_white'></div>
+          </div>
+          <p class='project-bar__subtitle'>29 Ideas</p>
+        </div>
         
+        <div class='project-bar__sort'>
+          <div class='project-bar__border'>
+            <select class='project-bar__select'>
+              <option value=''>10 Ideas</option>
+            </select>
+          </div>
+          
+          <select class='project-bar__select'>
+            <option value=''>Idea Type</option>
+          </select>
+          <select class='project-bar__select'>
+            <option value=''>Position</option>
+          </select>
+          <select class='project-bar__select'>
+            <option value=''>Level</option>
+          </select>
+          <select class='project-bar__select'>
+            <option value=''>Time Commitment</option>
+          </select>
+        </div>
+      </div>
+      <ul class='projects'>
         <li class='project'>
           <div class='project__intro'>
             <div class='add-icon add-icon_type_project'></div>
@@ -91,15 +121,11 @@
             <h3 class='project__title'>Thought Process</h3>
             <p class='project__subtitle'>An online, community-based idea or problem solving tool.</p>
           </div>
-
-
           <div class='project__details'>
             <div class='project__detail project__detail_type_type'>
               <h4 class='project__detail-title'>Project Type</h4>
               <p class='project__type'>Web Development</p>
             </div>
-
-
             <div class='project__detail project__detail_type_positions'>
               <h4 class='project__detail-title'>Positions Available / Level</h4>
               <ul class='project__positions'>
@@ -110,8 +136,6 @@
                 <li class='project__position'>UX/UI <span class='project__level'>Beginner</span></li>
               </ul>
             </div>
-
-
             <div class='project__detail project__detail_type_time'>
               <h4 class='project__detail-title'>Time Commitment</h4>
               <p class='project__time'>10 hrs / week</p>
@@ -119,8 +143,6 @@
           </div>
         </li>
       </ul>
-
-
     </section>
   </div>
 </body>

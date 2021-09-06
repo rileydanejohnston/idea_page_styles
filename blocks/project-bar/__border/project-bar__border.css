@@ -1,0 +1,6 @@
+.project-bar__border {
+  border-right: 1px solid #89969F;
+  height: 36px;
+  display: flex;
+  align-items: center;
+}

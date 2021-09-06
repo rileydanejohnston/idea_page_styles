@@ -50,6 +50,22 @@
 @import url('../blocks/card/__link/card__link.css');
 
 @import url('../blocks/project-gallery/project-gallery.css');
+@import url('../blocks/project-bar/project-bar.css');
+@import url('../blocks/project-bar/__heading/project-bar__heading.css');
+@import url('../blocks/project-bar/__icons/project-bar__icons.css');
+@import url('../blocks/project-bar/__list-icon/project-bar__list-icon.css');
+@import url('../blocks/project-bar/__title/project-bar__title.css');
+@import url('../blocks/project-bar/__subtitle/project-bar__subtitle.css');
+@import url('../blocks/project-bar/__sort/project-bar__sort.css');
+@import url('../blocks/project-bar/__select/project-bar__select.css');
+@import url('../blocks/project-bar/__border/project-bar__border.css');
+
+@import url('../blocks/arrow-icon/arrow-icon.css');
+@import url('../blocks/arrow-icon/_color/arrow-icon_color_grey.css');
+@import url('../blocks/arrow-icon/_color/arrow-icon_color_white.css');
+
+
+
 @import url('../blocks/project/__btn/project__btn.css');
 @import url('../blocks/projects/projects.css');
 @import url('../blocks/project/project.css');
